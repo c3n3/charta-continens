@@ -1,0 +1,2 @@
+﻿"veneer_thickness"= 0.1mm
+"thick"= 1.75mm
